@@ -82,7 +82,7 @@ const config = {
     limit: 5, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
-    id: 'UA-134765499-1', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
+    id: 'G-EQDHK75K6K', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
   },
   // Track visitor interaction and behavior. https://www.hotjar.com
   hotjar: {
