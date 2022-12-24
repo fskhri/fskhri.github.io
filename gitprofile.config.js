@@ -55,25 +55,6 @@ const config = {
     },
   ], */
   education: [
-    {
-      institution: 'SDN 10 Pagi',
-      degree: 'Student',
-      from: '',
-      to: '',
-    },
-    {
-      institution: 'SMPN 77 JAKARTA',
-      degree: 'Student',
-      from: '',
-      to: '',
-    },
-    {
-      institution: 'SMKN 1 JAKARTA',
-      degree: 'Student',
-      from: '',
-      to: '',
-    },
-
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
