@@ -12,7 +12,7 @@ const config = {
   },
   social: {
     linkedin: '',
-    twitter: 'Not_F',
+    twitter: 'Not_Fakhri',
     facebook: '',
     instagram: 'riririfak',
     dribbble: '',
